@@ -15,4 +15,4 @@
 ribakoff/ – основной каталог с реализованными заданиями
 README.md – описание и навигация по проекту
 🔗 Полезные ссылки
-[https://github.com/9onin/Fish-and-Chips-/blob/main/Labs%20Fish%20and%20chips/READ.me]
+[(https://github.com/9onin/Fish-and-Chips-/blob/main/READ.me)]
